@@ -4,6 +4,10 @@
     font-family: sans-serif;
 }
 
+span {
+    color: #ff52a4;
+}
+
 .container {
     width: 100%;
     min-height: 100vh;
